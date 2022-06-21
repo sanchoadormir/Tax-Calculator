@@ -75,13 +75,6 @@ j2 = i2 + a2
 k2 = j2 + a2
 l2 = k2 + a2
 
-
-x = [1,2,3,4,5,6,7,8,9,10,11,12]
-y = [a,b,c,d,e,f,g,h,i,j,k,l]
-
-x2 = [1,2,3,4,5,6,7,8,9,10,11,12]
-y2 = [a2,b2,c2,d2,e2,f2,g2,h2,i2,j2,k2,l2]
-
 print("   ")
 print("SAVINGS")
 print("1st month: ")
@@ -135,12 +128,3 @@ print("11th month: ")
 print(k2)
 print("12th month: ")
 print(l2)
-
-plt.plot(x, y, color="green", marker='o', markerfacecolor='blue', markersize=3, label = "Savings")
-plt.plot(x2, y2, color="red", marker='o', markerfacecolor='yellow', markersize=3, label = "Taxed")
-plt.xlabel('time - months')
-plt.ylabel('money - pounds')
-plt.title('Yearly Income')
-plt.legend
-plt.show()
-
