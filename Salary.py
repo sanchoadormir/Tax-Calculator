@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 print("OvenSausage presents: ")
 print(" ")
 print("TAX CALCULATOR")
