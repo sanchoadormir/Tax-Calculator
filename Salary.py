@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-print("Thesanch presents: ")
+print("OvenSausage presents: ")
 print(" ")
 print("TAX CALCULATOR")
 print(" ")
