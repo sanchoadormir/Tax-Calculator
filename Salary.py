@@ -25,7 +25,8 @@ print("TAX CALCULATOR")
 print(" ")
 print("This tax calculator is not completely accurate, but it is a near estimation.")
 print("UK ONLY")
-z = float(input("Monthly Salary: "))
+
+z = float(input("Input your monthly Salary: "))
 
 
 # no tax
