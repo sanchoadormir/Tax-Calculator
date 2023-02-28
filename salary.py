@@ -1,6 +1,6 @@
 # MIT License
 #
-# Copyright (c) 2022 Sancho Mir a.k.a OvenSausage
+# Copyright (c) 2022 Sancho Mir
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -19,8 +19,7 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-print("OvenSausage presents: ")
-print(" ")
+
 print("TAX CALCULATOR")
 print(" ")
 print("It is important to note that this script is not completely accurate and it is only a near estimation. ")
